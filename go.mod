@@ -1,4 +1,4 @@
-module github.com/geniussportsgroup/treaps
+module github.com/lrleon/treaps
 
 go 1.21
 
